@@ -1,2 +1,12 @@
 cout("Muhammad Abdullah Mahmood");
 cout("24-ST-003");
+cout("FSC Subjects");
+cout("Biology");
+cout("Physcis");
+cout("Chemistry);
+cout(English");
+cout("urdu");
+cout("Islamiyat");
+cout("Pak Study");
+cout("Quran Translation");
+
