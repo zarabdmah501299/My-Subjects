@@ -10,3 +10,12 @@ cout("Islamiyat");
 cout("Pak Study");
 cout("Quran Translation");
 
+cout("Semester 2 Subjects");
+cout("Object Oriented Programming");
+cout("Probability and Statistics");
+cout("Functional English");
+cout("Quran Translation");
+cout("Software Development life cycle");
+cout("Software Configuration Management");
+cout("Discrete Structures");
+
