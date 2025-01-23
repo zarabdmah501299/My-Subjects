@@ -9,4 +9,11 @@ cout("urdu");
 cout("Islamiyat");
 cout("Pak Study");
 cout("Quran Translation");
+cout("Semester 1 Subjects");
+cout("Calculus and Analytical Geometry");
+cout("Computer Programming");
+cout("Applied Physcis");
+cout("Islamic Studies");
+cout("Information Technology Skills");
+cout("Environment,Health and Safety");
 
